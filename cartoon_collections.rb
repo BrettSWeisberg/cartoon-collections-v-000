@@ -13,11 +13,11 @@ end
 
 def find_the_cheese(array)
 if array.include?("cheddar")
-  puts "cheddar"
+  return "cheddar"
 elsif array.include?("gouda")
-  puts "gouda"
+  return "gouda"
 elsif array.include?("camembert")
-  puts "camembert"
+  return "camembert"
 else
     nil
   end
