@@ -21,6 +21,5 @@ elsif array.include?("camembert")
 else
     nil
   end
-  cheese_types = ["cheddar", "gouda", "camembert"]
-
+  #cheese_types = ["cheddar", "gouda", "camembert"]
 end
