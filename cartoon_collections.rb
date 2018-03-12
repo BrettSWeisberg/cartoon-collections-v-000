@@ -18,7 +18,7 @@ elsif array.include?("gouda")
   puts "gouda"
 elsif array.include?("camembert")
   puts "camembert"
-else  
+else
     nil
   end
   cheese_types = ["cheddar", "gouda", "camembert"]
